@@ -1,7 +1,7 @@
 ### Greetings, I am João Pedro Lima.
 
 - 💻 Cairo, Python and BQL
-- 📚 Passionate about Economics, Coding, Philosophy, Cryptography and Business
+- 📚 Passionate about Economics, Coding, Philosophy and Business
 - 🎓 Bachelor's degree in Business Administration from Fundação Getulio Vargas
 - 📈 Currently serving as a Portfolio Manager at São Miguel Holding
 
