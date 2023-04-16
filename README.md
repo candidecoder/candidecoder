@@ -5,4 +5,4 @@
 - 🎓 Holds a Bachelor's degree in Business Administration from Fundação Getulio Vargas
 - 📈 Currently serving as a Portfolio Manager at São Miguel Holding
 
-Should you require any information or wish to engage in stimulating conversations, feel free to reach out to me.
+Don't hesitate to reach out for info or to have a conversation!
