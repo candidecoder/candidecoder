@@ -10,12 +10,12 @@ Don't hesitate to reach out for info or to have a conversation!
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; padding: 20px;">
     <a href="https://github.com/candidecoder">
-      <img width="300" src="https://github-readme-stats.vercel.app/api?username=candidecoder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img width="400" src="https://github-readme-stats.vercel.app/api?username=candidecoder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     </a>
   </div>
   <div style="flex: 1; padding: 20px;">
     <a href="https://github.com/candidecoder">
-      <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=candidecoder&layout=compact&langs_count=7&theme=tokyonight"/>
+      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=candidecoder&layout=compact&langs_count=7&theme=tokyonight"/>
     </a>
   </div>
 </div>
