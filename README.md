@@ -18,9 +18,4 @@ Don't hesitate to reach out for info or to have a conversation!
       <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=candidecoder&layout=compact&langs_count=7&theme=tokyonight"/>
     </a>
   </div>
-  <div style="flex: 1; padding: 20px;">
-    <a href="mailto:joaopedrogadli@outlook.com">
-      <img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v2.png"/>
-    </a>
-  </div>
-</div>
+ 
